@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-31T06:27:43Z" name="Default suite" finished-at="2024-10-31T06:28:20Z" duration-ms="37201">
+    <groups>
+    </groups>
+    <test started-at="2024-10-31T06:27:43Z" name="Default test" finished-at="2024-10-31T06:28:20Z" duration-ms="37201">
+      <class name="com.qa.testcases.TestCase1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.TestCase1@6db9f5a4]" started-at="2024-10-31T11:57:43Z" name="setUp" finished-at="2024-10-31T11:58:00Z" duration-ms="16360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginIntoSwagLabPortal()[pri:0, instance:com.qa.testcases.TestCase1@6db9f5a4]" started-at="2024-10-31T11:58:00Z" name="loginIntoSwagLabPortal" finished-at="2024-10-31T11:58:00Z" duration-ms="799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoSwagLabPortal -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.qa.testcases.TestCase1@6db9f5a4]" started-at="2024-10-31T11:58:00Z" name="endTest" finished-at="2024-10-31T11:58:10Z" duration-ms="9735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.TestCase1@6db9f5a4]" started-at="2024-10-31T11:58:10Z" name="setUp" finished-at="2024-10-31T11:58:14Z" duration-ms="3416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageLogoTest()[pri:0, instance:com.qa.testcases.TestCase1@6db9f5a4]" started-at="2024-10-31T11:58:14Z" name="loginPageLogoTest" finished-at="2024-10-31T11:58:14Z" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageLogoTest -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.qa.testcases.TestCase1@6db9f5a4]" started-at="2024-10-31T11:58:14Z" name="endTest" finished-at="2024-10-31T11:58:16Z" duration-ms="1351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.TestCase1@6db9f5a4]" started-at="2024-10-31T11:58:16Z" name="setUp" finished-at="2024-10-31T11:58:19Z" duration-ms="3637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitle()[pri:0, instance:com.qa.testcases.TestCase1@6db9f5a4]" started-at="2024-10-31T11:58:19Z" name="loginPageTitle" finished-at="2024-10-31T11:58:19Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitle -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.qa.testcases.TestCase1@6db9f5a4]" started-at="2024-10-31T11:58:19Z" name="endTest" finished-at="2024-10-31T11:58:20Z" duration-ms="987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.qa.testcases.TestCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
